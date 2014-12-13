@@ -1,0 +1,25 @@
+{
+  "name": "mygame",
+  "version": "1.0.0",
+  "description": "My Test Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biokrylov/mygame.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Loopback",
+    "NodeJS",
+    "Game"
+  ],
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biokrylov/mygame/issues"
+  },
+  "homepage": "https://github.com/biokrylov/mygame"
+}
